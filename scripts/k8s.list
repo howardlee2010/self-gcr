@@ -1,0 +1,4 @@
+pause:3.2
+cluster-proportional-autoscaler-amd64:1.8.1
+metrics-server/metrics-server:v0.3.7
+addon-resizer:1.8.11

@@ -3,6 +3,7 @@ cluster-proportional-autoscaler-amd64:1.8.1
 metrics-server/metrics-server:v0.3.7
 addon-resizer:1.8.11
 k8s-dns-node-cache:1.15.13
+ingress-nginx/controller:v0.35.0
 
 # k8s images
 pause:3.2

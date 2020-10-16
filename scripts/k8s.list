@@ -23,3 +23,6 @@ kube-apiserver-arm64:v1.18.9
 kube-controller-manager-arm64:v1.18.9
 kube-proxy-arm64:v1.18.9
 kube-scheduler-arm64:v1.18.9
+
+sig-storage/csi-provisioner:v2.0.2
+sig-storage/csi-node-driver-registrar:v1.2.0

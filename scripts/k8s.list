@@ -3,15 +3,17 @@ cluster-proportional-autoscaler-amd64:1.8.1
 metrics-server/metrics-server:v0.3.7
 addon-resizer:1.8.11
 k8s-dns-node-cache:1.15.13
-ingress-nginx/controller:v0.35.0
+ingress-nginx/controller:v0.41.2
+dns/k8s-dns-node-cache:1.16.0
+cpa/cluster-proportional-autoscaler-amd64:1.8.3
+busybox
 
 # k8s images
 pause:3.2
-pause:3.4
+pause:3.3
 
-kube-apiserver:v1.20.2
-kube-controller-manager:v1.20.2
-kube-proxy:v1.20.2
-kube-scheduler:v1.20.2
+kube-apiserver:v1.19.7
+kube-controller-manager:v1.19.7
+kube-proxy:v1.19.7
+kube-scheduler:v1.19.7
 coredns:1.7.0
-etcd:3.4.13-0

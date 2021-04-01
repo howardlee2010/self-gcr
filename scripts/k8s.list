@@ -9,7 +9,7 @@ cpa/cluster-proportional-autoscaler-amd64:1.8.3
 sig-storage/csi-node-driver-registrar:v2.0.1
 sig-storage/csi-provisioner:v2.0.0
 sig-storage/csi-snapshotter:v3.0.0
-
+sig-storage/csi-resizer:v1.0.0
 busybox
 
 # k8s images

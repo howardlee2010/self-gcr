@@ -4,6 +4,7 @@ metrics-server/metrics-server:v0.3.7
 addon-resizer:1.8.11
 k8s-dns-node-cache:1.15.13
 ingress-nginx/controller:v0.41.2
+ingress-nginx/controller:v0.42.0
 dns/k8s-dns-node-cache:1.17.1
 cpa/cluster-proportional-autoscaler-amd64:1.8.3
 sig-storage/csi-node-driver-registrar:v2.0.1

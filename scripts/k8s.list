@@ -12,6 +12,7 @@ sig-storage/csi-snapshotter:v3.0.0
 sig-storage/csi-resizer:v1.0.0
 sig-storage/csi-attacher:v3.0.0
 distroless/static
+defaultbackend:1.4
 busybox
 
 # k8s images

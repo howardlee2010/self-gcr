@@ -5,14 +5,9 @@ addon-resizer:1.8.11
 k8s-dns-node-cache:1.15.13
 ingress-nginx/controller:v0.41.2
 ingress-nginx/controller:v0.42.0
-ingress-nginx/controller:v0.42.1
-ingress-nginx/controller:v0.42.2
-ingress-nginx/controller:v0.42.3
-ingress-nginx/controller:v0.42.4
-ingress-nginx/controller:v0.42.5
-ingress-nginx/controller:v0.42.6
-ingress-nginx/controller:v0.42.7
-
+ingress-nginx/controller:v0.43.0
+ingress-nginx/controller:v0.44.0
+ingress-nginx/controller:v0.45.0
 ingress-nginx/controller:v0.42.0-arm64
 ingress-nginx/controller:v0.46.0
 dns/k8s-dns-node-cache:1.17.1

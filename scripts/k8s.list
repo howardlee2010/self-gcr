@@ -33,4 +33,5 @@ coredns:1.7.0
 build-image/kube-cross:v1.15.5-1
 build-image/debian-iptables:buster-v1.3.0
 build-image/go-runner:buster-v2.2.2
+conformance-amd64:v1.20.1
 

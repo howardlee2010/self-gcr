@@ -30,3 +30,4 @@ kube-controller-manager:v1.19.7
 kube-proxy:v1.19.7
 kube-scheduler:v1.19.7
 coredns:1.7.0
+build-image/kube-cross:v1.15.5-1

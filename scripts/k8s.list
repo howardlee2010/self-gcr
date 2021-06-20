@@ -1,6 +1,6 @@
-distroless/distroless/static-debian10:latest
-distroless/distroless/static-debian10:latest-ppc64le
-distroless/distroless/static-debian10:latest-arm64
+distroless/static-debian10:latest
+distroless/static-debian10:latest-ppc64le
+distroless/static-debian10:latest-arm64
 kube-registry-proxy:0.4
 cluster-proportional-autoscaler-amd64:1.8.1
 metrics-server/metrics-server:v0.3.7

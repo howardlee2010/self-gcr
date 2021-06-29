@@ -17,6 +17,7 @@ ingress-nginx/controller:v0.45.0
 ingress-nginx/controller:v0.42.0-arm64
 ingress-nginx/controller:v0.46.0
 dns/k8s-dns-node-cache:1.17.1
+dns/k8s-dns-node-cache-arm64:1.17.1
 cpa/cluster-proportional-autoscaler-amd64:1.8.3
 sig-storage/csi-node-driver-registrar:v2.0.1
 sig-storage/csi-provisioner:v2.0.0

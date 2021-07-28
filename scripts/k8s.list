@@ -1,6 +1,6 @@
-build-image/go-runner-arm64:v2.3.1-go1.15.14-buster.0
+build-image/go-runner-linux-arm64:v2.3.1-go1.15.14-buster.0
 build-image/go-runner:v2.3.1-go1.15.14-buster.0
-build-image/go-runner-amd64:v2.3.1-go1.15.14-buster.0
+build-image/go-runner-linux-amd64:v2.3.1-go1.15.14-buster.0
 go-runner-amd64:v2.3.1-go1.15.14-buster.0
 go-runner:v2.3.1-go1.15.14-buster.0
 go-runner-arm64:v2.3.1-go1.15.14-buster.0

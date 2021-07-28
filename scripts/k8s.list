@@ -53,6 +53,7 @@ kube-proxy:v1.19.7
 kube-scheduler:v1.19.7
 coredns:1.7.0
 build-image/kube-cross:v1.15.5-1
+build-image/kube-cross:v1.15.14-legacy-1
 build-image/debian-iptables-amd64:buster-v1.3.0
 build-image/debian-iptables-arm64:buster-v1.3.0
 build-image/debian-iptables-ppc64le:buster-v1.3.0

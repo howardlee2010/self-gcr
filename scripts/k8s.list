@@ -1,7 +1,7 @@
-build-image/go-runner-arm64:buster-v2.3.1-go1.15.14-buster.0
-build-image/go-runner-amd64:buster-v2.3.1-go1.15.14-buster.0
-go-runner-amd64:buster-v2.3.1-go1.15.14-buster.0
-go-runner-arm64:buster-v2.3.1-go1.15.14-buster.0
+build-image/go-runner-arm64:v2.3.1-go1.15.14-buster.0
+build-image/go-runner-amd64:v2.3.1-go1.15.14-buster.0
+go-runner-amd64:v2.3.1-go1.15.14-buster.0
+go-runner-arm64:v2.3.1-go1.15.14-buster.0
 distroless/static-debian10:latest
 distroless/static-debian10:latest-ppc64le
 distroless/static-debian10:latest-arm64

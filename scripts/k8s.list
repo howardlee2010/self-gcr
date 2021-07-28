@@ -1,6 +1,7 @@
 build-image/go-runner-linux-arm64:v2.3.1-go1.15.14-buster.0
-build-image/go-runner:v2.3.1-go1.15.14-buster.0
 build-image/go-runner-linux-amd64:v2.3.1-go1.15.14-buster.0
+build-image/go-runner:v2.3.1-go1.15.14-buster.0
+
 go-runner-amd64:v2.3.1-go1.15.14-buster.0
 go-runner:v2.3.1-go1.15.14-buster.0
 go-runner-arm64:v2.3.1-go1.15.14-buster.0
@@ -44,7 +45,6 @@ kube-controller-manager-arm64:v1.20.1
 kube-proxy-arm64:v1.20.1
 kube-scheduler-arm64:v1.20.1
 
-
 kube-apiserver:v1.19.8
 kube-controller-manager:v1.19.8
 kube-proxy:v1.19.8
@@ -59,12 +59,9 @@ build-image/kube-cross:v1.15.5-1
 build-image/kube-cross:v1.15.14-legacy-1
 build-image/debian-iptables-amd64:buster-v1.3.0
 build-image/debian-iptables-arm64:buster-v1.3.0
-build-image/debian-iptables-ppc64le:buster-v1.3.0
-build-image/debian-iptables-amd64:buster-v1.8.0
-build-image/debian-iptables-arm64:buster-v1.8.0
-build-image/debian-iptables-ppc64le:buster-v1.8.0
+build-image/debian-iptables-amd64:buster-v1.6.5
+build-image/debian-iptables-arm64:buster-v1.6.5
 build-image/go-runner-arm64:buster-v2.2.2
 build-image/go-runner-amd64:buster-v2.2.2
-build-image/go-runner-ppc64le:buster-v2.2.2
 conformance-amd64:v1.20.1
 

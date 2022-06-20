@@ -1,5 +1,15 @@
+build-image/go-runner-linux-arm64:v2.3.1-go1.17.10-bullseye.0
+build-image/go-runner-linux-amd64:v2.3.1-go1.17.10-bullseye.0
+
+build-image/debian-iptables-amd64:bullseye-v1.1.0
+build-image/debian-iptables-arm64:bullseye-v1.1.0
+
+build-image/setcap-amd64:bullseye-v1.0.0
+build-image/setcap-arm64:bullseye-v1.0.0
+
 build-image/go-runner-linux-arm64:v2.3.1-go1.15.14-buster.0
 build-image/go-runner-linux-amd64:v2.3.1-go1.15.14-buster.0
+
 build-image/go-runner:v2.3.1-go1.15.14-buster.0
 
 go-runner-amd64:v2.3.1-go1.15.14-buster.0

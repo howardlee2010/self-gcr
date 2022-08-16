@@ -45,6 +45,8 @@ busybox
 # k8s images
 pause:3.2
 pause:3.3
+pause:3.6
+
 kube-apiserver:v1.20.1
 kube-controller-manager:v1.20.1
 kube-proxy:v1.20.1

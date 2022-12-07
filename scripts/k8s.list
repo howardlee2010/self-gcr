@@ -8,3 +8,5 @@ tekton-releases/github.com/tektoncd/pipeline/cmd/pullrequest-init:v0.42.0
 tekton-releases/github.com/tektoncd/pipeline/cmd/workingdirinit:v0.42.0 
 tekton-releases/github.com/tektoncd/pipeline/cmd/resolvers:v0.42.0 
 tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.42.0 
+tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.22.0
+tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard:v0.30.0

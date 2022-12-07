@@ -2,7 +2,7 @@
 # 
 set -x
 
-kube_image_repo=k8s.gcr.io
+kube_image_repo=gcr.io
 docker login -u $DOCKERHUB_USERNAME -p $DOCKERHUB_PASSWD
 echo "test"
 docker run --privileged --rm tonistiigi/binfmt --install all

@@ -12,7 +12,7 @@ for baseimage in `cat k8s-build-images | grep -v ^$ | grep -v ^#`; do
     # docker tag ${kube_image_repo}/${baseimage} $DOCKERHUB_USERNAME/${baseimage}
     # docker push $DOCKERHUB_USERNAME/${baseimage}
 
-    docker pull --platform linux/amd64 ${kube_image_repo}/${baseimage}
+    docker pull --platform linux/arm64 ${kube_image_repo}/${baseimage}
     docker tag ${kube_image_repo}/${baseimage} $DOCKERHUB_USERNAME/${baseimage}
     docker push $DOCKERHUB_USERNAME/${baseimage}
 done

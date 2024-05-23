@@ -1,4 +1,4 @@
-name: Docker Image CI
+name: k8s build images ci
 
 on:
   push:
@@ -17,4 +17,4 @@ jobs:
           DOCKERHUB_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
           DOCKERHUB_PASSWD: ${{ secrets.DOCKERHUB_PASSWD }}
         working-directory: scripts
-        run: chmod +x gcr.sh && ./gcr.sh
+        run: chmod +x k8s-build-images-get.sh && ./k8s-build-images-get.sh
